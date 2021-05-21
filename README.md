@@ -8,6 +8,7 @@ const HoussamYahiaouiBio = {
         company: "Lirium AG",
         role: "Senior Awesomeness Engineer"
     },
+    hobbies: ['Traveling', 'FOOD <3', 'Talking to Developers over Meetups', 'Sharing content about technologies i\'m passionate about', 'FOOD Again <3'],
     links : {
         twitter: "@_hcodex",
         website: "https://www.coderevamp.com/",
